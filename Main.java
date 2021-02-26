@@ -1,6 +1,6 @@
 // (c) A+ Computer Science
 // www.apluscompsci.com
-// Name -
+// Name - Johnathan Mitri
 
 import static java.lang.System.*;
 
